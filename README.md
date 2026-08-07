@@ -21,17 +21,6 @@ A thing I care about in all three: they fail loudly instead of guessing. `ci-cos
 refuses to price a runner label it doesn't recognize rather than quietly
 estimating one, because a confident wrong number is worse than an error.
 
-## Research
-
-I work with Minerva's IMPACT Lab on droplet impact physics — specifically drop
-rebound at low Weber number, where surface tension dominates momentum and a
-slow, tiny drop bounces almost perfectly elastically. Counterintuitive result:
-it bounces cleaner than a fast one.
-
-The experimental problem is that contact-line friction contaminated every
-measurement in this regime, so we validate against a reduced-order kinematic
-match model. Paper in preparation, in collaboration with Carlos Galeano-Ríos.
-
 ## Teaching
 
 I taught three seminars in the Innovations in Science and Technology track at
