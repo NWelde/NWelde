@@ -21,11 +21,3 @@ A thing I care about in all three: they fail loudly instead of guessing. `ci-cos
 refuses to price a runner label it doesn't recognize rather than quietly
 estimating one, because a confident wrong number is worse than an error.
 
-## Teaching
-
-I taught three seminars in the Innovations in Science and Technology track at
-Yale Young Global Scholars across summer 2026:
-
-- **Pandora's Code** — AI biosecurity and dual-use dilemmas
-- **How Prediction Markets Work** — Bayesian reasoning, automated market makers, Brier scoring
-- **The Question Scientists Forget to Ask** — Al-Ghazali and Hume on the limits of induction
