@@ -9,7 +9,7 @@ building  noob-agent · better-ci · ci-cost · shadow-runner
 
 Computational Sciences student at Minerva University building infrastructure for faster CI and more reliable AI-agent evaluation.
 
-[LinkedIn](https://www.linkedin.com/in/nathan-beyene) · [Email](mailto:nathan.weldegiorgis@uni.minerva.com)
+[LinkedIn](https://www.linkedin.com/in/nathan-beyene-503a85286/) · [Email](mailto:nathanweldegiorgis24@gmail.com)
 
 ## Selected projects
 
